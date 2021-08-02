@@ -1,4 +1,4 @@
-project_id = "dotted-chiller-320309"
+project_id = "your_project_id"
 zone = "us-central1-b"
 
 googleapis = [
